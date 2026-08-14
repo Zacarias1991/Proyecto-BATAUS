@@ -1,4 +1,4 @@
-27329052425788327
+27330839159117732
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62194,6 +62194,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32-C3_SUPERMINI_TH
+MODULE_ESP32-C3_SUPERMINI_TH
+
+
+0
+16
+16
 ESP32-DEVKITC-32D
 MODULE_ESP32-DEVKITC-32D
 
